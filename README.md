@@ -52,12 +52,8 @@ Cash-flow management mobile app. Built with Flutter/Dart, submitted to F-Droid.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fasilmveloor&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fasilmveloor&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fasilmveloor&layout=compact&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fasilmveloor&theme=dark&hide_border=true)
 
----
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=fasilmveloor&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=fasilmveloor&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fasilmveloor&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fasilmveloor&layout=compact&theme=dark&hide_border=true&langs_count=8)
